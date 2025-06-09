@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg?w=2000" alt="Coding Anime Boy" width="400" />
+</p>
 <h1 align="center">Hi 👋, I'm Nguyễn An Hoàng</h1>
 <h3 align="center">Student at PTIT - Passionate about programming and problem solving</h3>
 
